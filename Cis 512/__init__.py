@@ -1,8 +1,6 @@
 print ('hello world')
 
 
-
-
 import csv as csv
 
 town = []
